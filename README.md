@@ -63,7 +63,7 @@ api-rate-limiting-template/
 
 ```bash
 # If using git
-git clone <repository-url>
+git clone https://github.com/Your-Starter-Kits/node-rate-limit-template.git
 cd api-rate-limiting-template
 
 # Or download and extract the template
